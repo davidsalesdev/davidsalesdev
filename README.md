@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
   </p>
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+<!--[Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -17,7 +17,7 @@
  ## 💬 Contato!!
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidsalesdev)](https://github.com/davidsalesdev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b4rbab4rba@gmail.com)](mailto:b4rbab4rba@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidsales28/)](https://www.linkedin.com/in/davidsales28/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidsales28/)](https://www.linkedin.com/in/davidsales28/)--!>
  
   
   
