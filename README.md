@@ -1,4 +1,4 @@
-### Meu nome é David, Software Engineer e apaixonado por Desenvolvimento..:fire:
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=davidsalesdev)
 <p align="center">
   <img src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
